@@ -1,0 +1,171 @@
+{
+   "user":{
+      "name" : "Mark",
+      "image" : "https://www.typeform.com/blog/app/plugins/cui/app/author-thumbnail.png"
+
+   },
+
+	"interactive_art1": 
+	[
+		{
+			"type": "text",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"message": "I’m still kicking myself for not investing in Facebook when it was at $18 a share 😬"
+		},
+		{
+			"type": "text",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"message": "Aren’t you?"
+		},
+		{
+			"type": "button",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"btn_yes": {
+				"label": "Dont Remind me",
+				"action": "exit"
+			}
+		},
+		{
+			"type": "button",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"btn_no": {
+				"label": "who cares!",
+				"action": "exit"
+			}
+		}
+	],
+	"interactive_art2": [
+      {
+			"type": "text",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"message": "Initially, I wanted to lead with “Life imitates art,” and transition out of it quickly. But once I dug a little deeper, I was intrigued."
+		},
+		{
+			"type": "button",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"btn_yes": {
+				"label": "Tell me more",
+				"action": "continue"
+			}
+		},
+		{
+			"type": "button",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"btn_no": {
+				"label": "Boaring",
+				"action": "exit"
+			}
+		}
+	],
+	"interactive_art3": [
+      {
+			"type": "text",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"message": "Wanna see a clip of the movie?"
+		},
+		{
+			"type": "button",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"btn_yes": {
+				"label": "Sure",
+				"action": "continue"
+			}
+		},
+		{
+			"type": "button",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"btn_no": {
+				"label": "No I'm Good",
+				"action": "exit"
+			}
+		},
+		{
+			"type": "text",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"message": "This is video --> add brightcove data here"
+		},
+	],
+	"interactive_art4": [
+      {
+			"type": "text",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"message": "Hey Shiv, I remember seeing this commercial when it first came out. The concept stuck with me, but I forgot the brand behind the ad—until I started researching this article."
+		},
+		{
+			"type": "text",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"message": "Would you like to see it? It’s pretty clever."
+		},
+	
+		{
+			"type": "button",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"btn_yes": {
+				"label": "Yes I wana See it",
+				"action": "continue"
+			}
+		},
+		{
+			"type": "button",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"btn_no": {
+				"label": "Let me keep reading",
+				"action": "exit"
+			}
+		},
+		{
+			"type": "text",
+			"user": {
+				"name": "poul",
+				"image": ""
+			},
+			"message": "You clicked on yes .."
+		},
+	
+	],
+}
