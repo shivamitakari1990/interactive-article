@@ -5,7 +5,7 @@
 
    },
 
-	"interactive_art1": 
+	"ia-placeholder-1": 
 	[
 		{
 			"type": "text",
@@ -46,7 +46,7 @@
 			}
 		}
 	],
-	"interactive_art2": [
+	"ia-placeholder-2": [
       {
 			"type": "text",
 			"user": {
@@ -78,7 +78,7 @@
 			}
 		}
 	],
-	"interactive_art3": [
+	"ia-placeholder-3": [
       {
 			"type": "text",
 			"user": {
@@ -115,10 +115,10 @@
 				"name": "poul",
 				"image": ""
 			},
-			"message": "This is video --> add brightcove data here"
-		},
+			"message": "This is video add brightcove data here"
+		}
 	],
-	"interactive_art4": [
+	"ia-placeholder-4": [
       {
 			"type": "text",
 			"user": {
@@ -165,7 +165,7 @@
 				"image": ""
 			},
 			"message": "You clicked on yes .."
-		},
+		}
 	
-	],
+	]
 }
